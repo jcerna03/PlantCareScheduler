@@ -1,4 +1,4 @@
-## Setup Instructions (For Recruiters)
+## Setup Instructions
 
 1. **Download the Project**: Clone or download the project repository from GitHub.
 2. **Install Dependencies**:
@@ -93,7 +93,11 @@ The solution comprises two projects:
 
 ---
 
+
 ### Summary
 
 This project demonstrates a full-stack application built with modern tools and frameworks, following clean architecture principles. The backend exposes a REST API, and the frontend interacts seamlessly via Axios. 
 Testing is robust with unit tests using NUnit and an in-memory database for backend validation. The solution adheres to maintainability and scalability best practices, making it ready for further enhancements or deployment.
+
+![image](https://github.com/user-attachments/assets/363a861e-6ddf-48ee-aa75-646e05e9b61a)
+
